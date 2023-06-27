@@ -1,0 +1,532 @@
+svg{
+position: absolute;
+width: 100%;
+height: 750px;
+left: 0px;
+top: 0px;
+
+background: #060A0D;
+}
+
+.one{
+position: absolute;
+width: 100%;
+height: 466px;
+left: 0px;
+top: 350px;
+}
+
+h1{
+position: absolute;
+
+height: 77px;
+left: 557px;
+top: 100px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 120%;
+
+text-align: center;
+letter-spacing: 0.065em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.col-1{
+color: #FFFFFF;
+
+position: absolute;
+
+height: 19px;
+left: 52px;
+top: 24px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 120%;
+
+text-align: center;
+letter-spacing: 0.115em;
+}
+
+.cont{
+position: absolute;
+height: 40px;
+top: 24px;
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.btn{
+position: absolute;
+width: 128px;
+height: 35px;
+left: 636px;
+top: 205px;
+
+background: #D18200;
+border-radius: 30px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 133%;
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+b{
+color: #FCA311;
+font-weight: bold;
+}
+
+p{
+position: absolute;
+height: 43px;
+left: 530px;
+top: 260px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 133%;
+
+text-align: center;
+
+color: #FCA311;
+
+}
+
+.two{
+color: #FFFFFF;
+
+position: absolute;
+width: 341px;
+height: 43px;
+left: 530px;
+top: 300px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 133%;
+
+text-align: center;
+}
+
+.hark{
+position: absolute;
+
+height: 40px;
+left: 512px;
+top: 870px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 300;
+font-size: 30px;
+line-height: 133%;
+
+text-align: center;
+text-transform: uppercase;
+
+color: #2E2D36;
+}
+
+.table-1{
+position: absolute;
+width: 1296px;
+height: 735.02px;
+left: 125px;
+top: 950px;
+background: #F7F7F7;
+border: 0.5px solid rgba(46, 45, 54, 0.31);
+border-radius: 5.7827px;
+}
+
+.top-radius{
+box-sizing: border-box;
+
+background: #F7F7F7;
+
+color: #FCA311;
+font-size: 45px;
+
+}
+
+.opa{
+text-align: center;
+}
+
+.oil{
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 23px;
+
+color: #FCA311;
+text-align: center;
+}
+
+.col-9{
+position: absolute;
+width: 673px;
+height: 555px;
+left: 94px;
+top: 1800px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 155.5%;
+
+color: #2E2D36;
+}
+
+.five{
+position: absolute;
+width: 452px;
+height: 271px;
+left: 840px;
+top: 1800px;
+}
+
+.six{
+position: absolute;
+width: 452px;
+height: 289.3px;
+left: 838px;
+top: 2100px;
+}
+
+.seven{
+position: absolute;
+
+height: 40px;
+left: 506px;
+top: 2450px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 300;
+font-size: 30px;
+line-height: 133%;
+
+text-align: center;
+text-transform: uppercase;
+
+color: #2E2D36;
+}
+
+.eight{
+position: absolute;
+width: 257px;
+height: 40px;
+left: 566px;
+top: 2935px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 300;
+font-size: 30px;
+line-height: 133%;
+
+text-align: center;
+text-transform: uppercase;
+
+color: #2E2D36;
+}
+
+#one{
+position: absolute;
+width: 281.85px;
+height: 81.74px;
+left: 940px;
+top: 3017.82px;
+
+text-align: center;
+}
+
+#two{
+position: absolute;
+width: 248.03px;
+height: 87.37px;
+left: 217px;
+top: 3015px;
+
+text-align: center;
+}
+
+.wr{
+position: absolute;
+width: 100%;
+height: 584px;
+left: 0px;
+top: 3200px;
+background: linear-gradient(254.81deg, #060A0D 4.61%, rgba(6, 10, 13, 0.64) 38.13%), linear-gradient(60.29deg, #060A0D -3.13%, rgba(6, 10, 13, 0.58) 64.86%);
+}
+
+.dok{
+position: absolute;
+width: 233px;
+height: 40px;
+left: 580px;
+top: 3273px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 300;
+font-size: 30px;
+line-height: 133%;
+
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+#three{
+position: absolute;
+width: 36.91px;
+height: 36.91px;
+left: 53px;
+top: 3390.13px;
+background: linear-gradient(0deg, rgba(229, 229, 229, 0.77), rgba(229, 229, 229, 0.77));
+}
+
+.poi{
+position: absolute;
+width: 169px;
+height: 41px;
+left: 104.91px;
+top: 3386px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 155%;
+text-align: left;
+
+
+color: #FFFFFF;
+}
+
+.ert{
+position: absolute;
+width: 169px;
+height: 41px;
+left: 104.91px;
+top: 3410px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 155%;
+text-align: left;
+
+color: #FCA311;
+}
+
+#four{
+position: absolute;
+width: 36.91px;
+height: 36.91px;
+left: 376.91px;
+top: 3390.13px;
+background: linear-gradient(0deg, rgba(229, 229, 229, 0.77), rgba(229, 229, 229, 0.77));
+}
+
+.vbn{
+position: absolute;
+width: 166px;
+height: 41px;
+left: 428.83px;
+top: 3386px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 155%;
+text-align: left;
+
+color: #FFFFFF;
+}
+
+.rty{
+position: absolute;
+width: 166px;
+height: 41px;
+left: 428.83px;
+top: 3410px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 155%;
+text-align: left;
+
+color: #FCA311;
+}
+
+#five{
+position: absolute;
+width: 36.91px;
+height: 36.91px;
+left: 697.83px;
+top: 3390.13px;
+background: linear-gradient(0deg, rgba(229, 229, 229, 0.77), rgba(229, 229, 229, 0.77));
+}
+
+.asd{
+position: absolute;
+width: 244px;
+height: 41px;
+left: 749.74px;
+top: 3386px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 155%;
+text-align: left;
+
+color: #FFFFFF;
+}
+
+.hjk{
+position: absolute;
+width: 244px;
+height: 41px;
+left: 749.74px;
+top: 3410px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 155%;
+text-align: left;
+
+color: #FCA311;
+}
+
+#six{
+position: absolute;
+width: 36.91px;
+height: 36.91px;
+left: 1096.74px;
+top: 3390.13px;
+
+background: linear-gradient(0deg, rgba(229, 229, 229, 0.77), rgba(229, 229, 229, 0.77));
+}
+
+.tyu{
+position: absolute;
+width: 196px;
+height: 41px;
+left: 1148.66px;
+top: 3386px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 155%;
+text-align: left;
+
+
+color: #FFFFFF;
+}
+
+.op{
+position: absolute;
+width: 196px;
+height: 41px;
+left: 1148.66px;
+top: 3410px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 155%;
+text-align: left;
+
+
+color: #FCA311;
+}
+
+.ret{
+position: absolute;
+width: 100%;
+height: 0px;
+left: 0px;
+top: 3513.04px;
+
+border: 0.5px solid #E5E5E5;
+}
+
+.img-5{
+position: absolute;
+width: 200px;
+height: 200px;
+left: 53px;
+top: 3555px;
+}
+
+.ten{
+position: absolute;
+
+height: 19px;
+right: 333px;
+top: 3555px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 142.62%;
+
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+}
+
+.h22{
+position: absolute;
+
+height: 19px;
+right: 90px;
+top: 3555px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 142.62%;
+
+letter-spacing: 0.01em;
+
+color: #E5E5E5;
+}
+
